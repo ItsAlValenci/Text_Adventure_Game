@@ -4,7 +4,7 @@ greetings_log = ["Hail and well met, adventurer!","Greetings, brave hero.",
             "Ahoy, matey! What brings you to these waters?","It's not often we see outsiders around here.",
             "Hello, hello! are you up for an adventure?","Greetings and felicitations, dear friend!"]
 
-cave_start = ("You just left your cave located in the south of a dense forest.\nNow, you are in the main path and each house is located in different areas of the forest.\n")
+cave_start = ("You just left your cave located in the south of a dense forest.\nNow, you are in the main path and each house is located in different areas of the forest.\n\nPress 'Enter' to Continue:")
 
 cave_log = ["You stumble and fall into a trap.\nThe pigs are laughing at you.",
                "As you close in on the pigs, you suddenly remember you're a vegetarian and decide to let them go.",
