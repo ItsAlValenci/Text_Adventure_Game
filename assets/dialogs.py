@@ -15,14 +15,13 @@ cave_log = ["You stumble and fall into a trap.\nThe pigs are laughing at you.",
 
 def get_welcome_message(player_name):
     return f"""   
-Welcome {player_name} to 'The Wolf\'s Tale'
-A dynamic game based on the story of 'The 3 Little Pigs'
+Welcome, {player_name}, to The Wolf’s Tale!
+A fun twist on the story of The Three Little Pigs.
+
+You play as the Big Bad Wolf. You’re hungry and you just found out that
+three little pigs are wandering through your forest.
           
-In this world, you play as the wolf, which is really hungry and just recently 
-found out that there were three little pigs wondering in his forest and
-your goal is to find their houses to eat each pig
-          
-This is your story so you can go any way you want. Just remember... don't visit the same place twice.
+This is your story so you can go any way you want. Just remember... DO NOT visit the same place twice.
 Let the hunt begin!!
                     
 Press "Enter" to start: """
