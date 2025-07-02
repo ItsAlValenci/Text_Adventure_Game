@@ -18,3 +18,5 @@ To build this game, the following programming concepts were used:
 ## How to Play
 To play the game, simply run the Python script and follow the on-screen instructions. You will be prompted to make decisions and navigate through different stages of the game. Make sure to read the instructions carefully and think strategically to catch all the pigs and avoid the traps.
 
+![image](https://github.com/user-attachments/assets/fa227acb-b8d0-4dd1-8b56-f8e10f83ae58)
+
